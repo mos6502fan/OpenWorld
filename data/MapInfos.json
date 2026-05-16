@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World 1","order":1,"parentId":0,"scrollX":5737.2,"scrollY":993.5999999999999},
+{"id":2,"expanded":true,"name":"Demon Castle","order":2,"parentId":0,"scrollX":988,"scrollY":1280},
+{"id":3,"expanded":true,"name":"Demon Castle 1F","order":3,"parentId":2,"scrollX":1136,"scrollY":1414},
+{"id":4,"expanded":true,"name":"Demon Castle 2F","order":4,"parentId":3,"scrollX":1082,"scrollY":1808},
+{"id":5,"expanded":false,"name":"Demon Castle 3F","order":5,"parentId":4,"scrollX":973.1999999999999,"scrollY":1359.6},
+{"id":6,"expanded":true,"name":"Abandoned Town","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":759.6},
+{"id":7,"expanded":true,"name":"House 1","order":7,"parentId":6,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
+{"id":8,"expanded":true,"name":"Cursed Cave","order":8,"parentId":7,"scrollX":1353.6,"scrollY":1808.3999999999999},
+{"id":9,"expanded":false,"name":"Mine","order":9,"parentId":8,"scrollX":973.1999999999999,"scrollY":639.6},
+{"id":10,"expanded":true,"name":"Normal Town","order":11,"parentId":0,"scrollX":973.1999999999999,"scrollY":897.5999999999999},
+{"id":11,"expanded":true,"name":"Lost Forest","order":12,"parentId":10,"scrollX":1216.8,"scrollY":704.4},
+{"id":12,"expanded":false,"name":"Tower","order":13,"parentId":11,"scrollX":973.1999999999999,"scrollY":982.8},
+{"id":13,"expanded":false,"name":"Weapon Shop","order":14,"parentId":10,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
+{"id":14,"expanded":false,"name":"Item Shop","order":15,"parentId":10,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+{"id":15,"expanded":true,"name":"Hotel 1F","order":16,"parentId":10,"scrollX":816,"scrollY":624},
+{"id":16,"expanded":false,"name":"Hotel 2F","order":17,"parentId":15,"scrollX":0,"scrollY":0},
+{"id":17,"expanded":false,"name":"Bar","order":18,"parentId":10,"scrollX":816,"scrollY":640},
+{"id":18,"expanded":false,"name":"Hall of Transference","order":10,"parentId":6,"scrollX":973.1999999999999,"scrollY":656.4}
+]
